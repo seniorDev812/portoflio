@@ -6,7 +6,6 @@ import SocialMedia from './components/SocialMedia';
 import Progress from './components/Progress';
 import rourke from './assets/rourke.png'
 import flameidePng from './assets/flameide.png'
-import malayPatra from './assets/malayPatra.png'
 import liveHtml from './assets/live-html.png'
 import Roundbtn from './components/Roundbtn';
 import './styles/App.css';
