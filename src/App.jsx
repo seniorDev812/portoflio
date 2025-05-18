@@ -164,20 +164,7 @@ export default function App() {
                   </div>
                 </div>
               </a>
-              <a href="https://malaypatra.vercel.app/">
-                <div className='card'>
-                  <img src={malayPatra} className='thmb' />
-                  <div className="desc">
-                    <h3>Malay Patra, Portfolio</h3>
-                    <p>Malay Patra - Full Stack Developer, Personal portfolio using React+Vite.</p>
-                    <div className="tags">
-                      <span className="tag">React</span>
-                      <span className="tag">Vite</span>
-                      <span className="tag">MERN</span>
-                    </div>
-                  </div>
-                </div>
-              </a>
+
             </div>
           </Element>
           <footer>made with ❤️ using (react+vite)</footer>
