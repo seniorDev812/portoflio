@@ -18,7 +18,7 @@ export default function App() {
         <section className="profile-sec">
           <div>
             <div className='profile'>
-              <img src={rourke} alt='Profile Picture' className='malay-img' />
+              <img src={rourke} alt='Profile Picture' className='cassian-img' />
               <span>
                 <h1>Cassian Rourke</h1>
                 <h4>Full Stack Web Developer</h4>
@@ -100,7 +100,7 @@ export default function App() {
                   </div>
                   <div>
                     <h2>Sam taylor</h2>
-                    <div>"Malay was fantastic ! He followed all instructions and finished task in time and with great accuracy... He understood complex problems and solved them.. would definitely recommend him to anyone"</div>
+                    <div>"Cassian was fantastic ! He followed all instructions and finished task in time and with great accuracy... He understood complex problems and solved them.. would definitely recommend him to anyone"</div>
                     <Stars rating={5} />
                   </div>
                 </div>
@@ -112,7 +112,7 @@ export default function App() {
                   </div>
                   <div>
                     <h2>Steven Pierson</h2>
-                    <div>"Malay Completed the project on time and budget. He fix all issues and provided excellent support to us using his solution.Would definitely hire again"</div>
+                    <div>"Cassian Completed the project on time and budget. He fix all issues and provided excellent support to us using his solution.Would definitely hire again"</div>
                     <Stars rating={5} />
                   </div>
                 </div>
