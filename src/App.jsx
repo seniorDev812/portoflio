@@ -13,19 +13,19 @@ import './styles/App.css';
 
 export default function App() {
   return (
-    <main>
-      <div className='wrapper' id='wrapper'>
+    <main>                     
+      <div className='wrapper' id='wrapper'>            
         <section className="profile-sec">
-          <div>
-            <div className='profile'>
-              <img src={rourke} alt='Profile Picture' className='cassian-img' />
+          <div>                            
+            <div className='profile'>                
+              <img src={rourke} alt='Profile Picture' className='cassian-img' />                          
               <span>
                 <h1>Cassian Rourke</h1>
                 <h4>Full Stack Web Developer</h4>
               </span>
             </div>
             <p className='desc'>Seamlessly integrate web & AI for efficient business solutions.</p>
-            <Navigator />
+            <Navigator /> 
             <SocialMedia />
           </div>
         </section>
